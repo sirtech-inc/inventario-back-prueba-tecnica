@@ -1,0 +1,481 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\prueba tecnica - touchConsulting\\RetoBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21591109-F1DB-4E45-98FB-3B6E8771E6CA}|Application\\Application.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\application\\validators\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21591109-F1DB-4E45-98FB-3B6E8771E6CA}|Application\\Application.csproj|solutionrelative:application\\validators\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21591109-F1DB-4E45-98FB-3B6E8771E6CA}|Application\\Application.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\application\\mappers\\productmappingsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21591109-F1DB-4E45-98FB-3B6E8771E6CA}|Application\\Application.csproj|solutionrelative:application\\mappers\\productmappingsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21591109-F1DB-4E45-98FB-3B6E8771E6CA}|Application\\Application.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21591109-F1DB-4E45-98FB-3B6E8771E6CA}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21591109-F1DB-4E45-98FB-3B6E8771E6CA}|Application\\Application.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\application\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21591109-F1DB-4E45-98FB-3B6E8771E6CA}|Application\\Application.csproj|solutionrelative:application\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA814217-9CE8-4C00-9CE6-419A90311C48}|Api\\Api.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA814217-9CE8-4C00-9CE6-419A90311C48}|Api\\Api.csproj|solutionrelative:api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\infraestructure\\persistences\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\persistences\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\infraestructure\\persistences\\repository\\crudcorerespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\persistences\\repository\\crudcorerespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA814217-9CE8-4C00-9CE6-419A90311C48}|Api\\Api.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA814217-9CE8-4C00-9CE6-419A90311C48}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7CB0B5-4AE2-4397-AA6B-61D864DD1BA3}|Domain\\Domain.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\domain\\meta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7CB0B5-4AE2-4397-AA6B-61D864DD1BA3}|Domain\\Domain.csproj|solutionrelative:domain\\meta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7CB0B5-4AE2-4397-AA6B-61D864DD1BA3}|Domain\\Domain.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\domain\\paginadoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7CB0B5-4AE2-4397-AA6B-61D864DD1BA3}|Domain\\Domain.csproj|solutionrelative:domain\\paginadoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\infraestructure\\persistences\\contexts\\inventariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\persistences\\contexts\\inventariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\infraestructure\\extensions\\injectionexntensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\extensions\\injectionexntensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\infraestructure\\persistences\\interfaces\\icrudcorerespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\persistences\\interfaces\\icrudcorerespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\infraestructure\\persistences\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\persistences\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA814217-9CE8-4C00-9CE6-419A90311C48}|Api\\Api.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA814217-9CE8-4C00-9CE6-419A90311C48}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA814217-9CE8-4C00-9CE6-419A90311C48}|Api\\Api.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA814217-9CE8-4C00-9CE6-419A90311C48}|Api\\Api.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\infraestructure\\persistences\\contexts\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\persistences\\contexts\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\infraestructure\\persistences\\contexts\\configurations\\rolconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\persistences\\contexts\\configurations\\rolconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\infraestructure\\persistences\\contexts\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\persistences\\contexts\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\infraestructure\\persistences\\contexts\\configurations\\movimientoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\persistences\\contexts\\configurations\\movimientoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7CB0B5-4AE2-4397-AA6B-61D864DD1BA3}|Domain\\Domain.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7CB0B5-4AE2-4397-AA6B-61D864DD1BA3}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7CB0B5-4AE2-4397-AA6B-61D864DD1BA3}|Domain\\Domain.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7CB0B5-4AE2-4397-AA6B-61D864DD1BA3}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7CB0B5-4AE2-4397-AA6B-61D864DD1BA3}|Domain\\Domain.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\domain\\entities\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7CB0B5-4AE2-4397-AA6B-61D864DD1BA3}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA814217-9CE8-4C00-9CE6-419A90311C48}|Api\\Api.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA814217-9CE8-4C00-9CE6-419A90311C48}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21591109-F1DB-4E45-98FB-3B6E8771E6CA}|Application\\Application.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\application\\extensions\\injectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21591109-F1DB-4E45-98FB-3B6E8771E6CA}|Application\\Application.csproj|solutionrelative:application\\extensions\\injectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA814217-9CE8-4C00-9CE6-419A90311C48}|Api\\Api.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA814217-9CE8-4C00-9CE6-419A90311C48}|Api\\Api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|e:\\prueba tecnica - touchconsulting\\retoback\\infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D97BA76-7D46-4FE4-B056-6FE55FD0A490}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Application\\Validators\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\ProductValidator.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Application\\Validators\\ProductValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\ProductValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:42:13.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwC0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:41:45.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Application\\Dtos\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Product\\ProductDto.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Application\\Dtos\\Product\\ProductDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\Product\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:41:20.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Meta.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Domain\\Meta.cs",
+              "RelativeDocumentMoniker": "Domain\\Meta.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Domain\\Meta.cs",
+              "RelativeToolTip": "Domain\\Meta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:17:47.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CrudCoreRespository.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Repository\\CrudCoreRespository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Persistences\\Repository\\CrudCoreRespository.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Repository\\CrudCoreRespository.cs",
+              "RelativeToolTip": "Infraestructure\\Persistences\\Repository\\CrudCoreRespository.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:28:30.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T23:58:57.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswDYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T02:26:23.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductMappingsProfile.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Application\\Mappers\\ProductMappingsProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mappers\\ProductMappingsProfile.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Application\\Mappers\\ProductMappingsProfile.cs",
+              "RelativeToolTip": "Application\\Mappers\\ProductMappingsProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T01:19:15.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaginadoResponse.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Domain\\PaginadoResponse.cs",
+              "RelativeDocumentMoniker": "Domain\\PaginadoResponse.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Domain\\PaginadoResponse.cs",
+              "RelativeToolTip": "Domain\\PaginadoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:37:50.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Persistences\\Repository\\ProductRepository.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Persistences\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T00:54:47.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICrudCoreRespository.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Interfaces\\ICrudCoreRespository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Persistences\\Interfaces\\ICrudCoreRespository.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Interfaces\\ICrudCoreRespository.cs",
+              "RelativeToolTip": "Infraestructure\\Persistences\\Interfaces\\ICrudCoreRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:28:20.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Persistences\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Persistences\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:28:26.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventarioContext.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Contexts\\InventarioContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Persistences\\Contexts\\InventarioContext.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Contexts\\InventarioContext.cs",
+              "RelativeToolTip": "Infraestructure\\Persistences\\Contexts\\InventarioContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:21:23.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InjectionExntensions.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Extensions\\InjectionExntensions.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Extensions\\InjectionExntensions.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Extensions\\InjectionExntensions.cs",
+              "RelativeToolTip": "Infraestructure\\Extensions\\InjectionExntensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T23:50:53.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T22:39:38.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.Development.json",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Api\\appsettings.Development.json",
+              "RelativeToolTip": "Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-14T00:05:05.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RolConfiguration.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Contexts\\Configurations\\RolConfiguration.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Persistences\\Contexts\\Configurations\\RolConfiguration.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Contexts\\Configurations\\RolConfiguration.cs",
+              "RelativeToolTip": "Infraestructure\\Persistences\\Contexts\\Configurations\\RolConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:25:06.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MovimientoConfiguration.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Contexts\\Configurations\\MovimientoConfiguration.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Persistences\\Contexts\\Configurations\\MovimientoConfiguration.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Contexts\\Configurations\\MovimientoConfiguration.cs",
+              "RelativeToolTip": "Infraestructure\\Persistences\\Contexts\\Configurations\\MovimientoConfiguration.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:26:16.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Contexts\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Persistences\\Contexts\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Contexts\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "Infraestructure\\Persistences\\Contexts\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:23:29.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Contexts\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Persistences\\Contexts\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Persistences\\Contexts\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Infraestructure\\Persistences\\Contexts\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:23:26.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:20:51.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Domain\\Entities\\Rol.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Rol.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Domain\\Entities\\Rol.cs",
+              "RelativeToolTip": "Domain\\Entities\\Rol.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:20:43.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Domain\\Entities\\Movimiento.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Movimiento.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Domain\\Entities\\Movimiento.cs",
+              "RelativeToolTip": "Domain\\Entities\\Movimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:19:49.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Api",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T04:12:12.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Api\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-14T00:07:01.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InjectionExtension.cs",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Application\\Extensions\\InjectionExtension.cs",
+              "RelativeDocumentMoniker": "Application\\Extensions\\InjectionExtension.cs",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Application\\Extensions\\InjectionExtension.cs",
+              "RelativeToolTip": "Application\\Extensions\\InjectionExtension.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T01:49:50.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Infraestructure.csproj",
+              "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Infraestructure.csproj",
+              "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
+              "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Infraestructure\\Infraestructure.csproj",
+              "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T22:50:39.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

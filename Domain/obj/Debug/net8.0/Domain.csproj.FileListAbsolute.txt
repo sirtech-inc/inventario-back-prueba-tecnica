@@ -1,0 +1,28 @@
+C:\Users\josec\source\repos\RetoBack\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\josec\source\repos\RetoBack\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\josec\source\repos\RetoBack\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\josec\source\repos\RetoBack\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\josec\source\repos\RetoBack\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\josec\source\repos\RetoBack\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josec\source\repos\RetoBack\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\josec\source\repos\RetoBack\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\josec\source\repos\RetoBack\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\josec\source\repos\RetoBack\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\josec\source\repos\RetoBack\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\josec\source\repos\RetoBack\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\josec\source\repos\RetoBack\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\josec\source\repos\RetoBack\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\prueba tecnica - touchConsulting\RetoBack\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+E:\prueba tecnica - touchConsulting\RetoBack\Domain\bin\Debug\net8.0\Domain.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Domain\bin\Debug\net8.0\Domain.pdb
+E:\prueba tecnica - touchConsulting\RetoBack\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+E:\prueba tecnica - touchConsulting\RetoBack\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\prueba tecnica - touchConsulting\RetoBack\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\prueba tecnica - touchConsulting\RetoBack\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\prueba tecnica - touchConsulting\RetoBack\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\prueba tecnica - touchConsulting\RetoBack\Domain\obj\Debug\net8.0\Domain.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Domain\obj\Debug\net8.0\Domain.pdb
+E:\prueba tecnica - touchConsulting\RetoBack\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+E:\prueba tecnica - touchConsulting\RetoBack\Domain\obj\Debug\net8.0\ref\Domain.dll

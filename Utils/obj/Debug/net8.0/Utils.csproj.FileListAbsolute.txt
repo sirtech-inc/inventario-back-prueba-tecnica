@@ -1,0 +1,22 @@
+C:\Users\josec\source\repos\RetoBack\Utils\bin\Debug\net8.0\Utils.deps.json
+C:\Users\josec\source\repos\RetoBack\Utils\bin\Debug\net8.0\Utils.dll
+C:\Users\josec\source\repos\RetoBack\Utils\bin\Debug\net8.0\Utils.pdb
+C:\Users\josec\source\repos\RetoBack\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josec\source\repos\RetoBack\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+C:\Users\josec\source\repos\RetoBack\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+C:\Users\josec\source\repos\RetoBack\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\josec\source\repos\RetoBack\Utils\obj\Debug\net8.0\Utils.dll
+C:\Users\josec\source\repos\RetoBack\Utils\obj\Debug\net8.0\refint\Utils.dll
+C:\Users\josec\source\repos\RetoBack\Utils\obj\Debug\net8.0\Utils.pdb
+C:\Users\josec\source\repos\RetoBack\Utils\obj\Debug\net8.0\ref\Utils.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Utils\bin\Debug\net8.0\Utils.deps.json
+E:\prueba tecnica - touchConsulting\RetoBack\Utils\bin\Debug\net8.0\Utils.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Utils\bin\Debug\net8.0\Utils.pdb
+E:\prueba tecnica - touchConsulting\RetoBack\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+E:\prueba tecnica - touchConsulting\RetoBack\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+E:\prueba tecnica - touchConsulting\RetoBack\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+E:\prueba tecnica - touchConsulting\RetoBack\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+E:\prueba tecnica - touchConsulting\RetoBack\Utils\obj\Debug\net8.0\Utils.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Utils\obj\Debug\net8.0\refint\Utils.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Utils\obj\Debug\net8.0\Utils.pdb
+E:\prueba tecnica - touchConsulting\RetoBack\Utils\obj\Debug\net8.0\ref\Utils.dll
