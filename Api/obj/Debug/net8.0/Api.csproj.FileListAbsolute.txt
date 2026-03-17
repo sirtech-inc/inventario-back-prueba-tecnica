@@ -375,3 +375,4 @@ E:\prueba tecnica - touchConsulting\RetoBack\Api\bin\Debug\net8.0\ICSharpCode.Sh
 E:\prueba tecnica - touchConsulting\RetoBack\Api\bin\Debug\net8.0\SixLabors.Fonts.dll
 E:\prueba tecnica - touchConsulting\RetoBack\Api\bin\Debug\net8.0\SixLabors.ImageSharp.dll
 E:\prueba tecnica - touchConsulting\RetoBack\Api\bin\Debug\net8.0\de\PdfSharpCore.resources.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

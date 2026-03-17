@@ -1,4 +1,4 @@
-﻿using Domain.Entities;
+using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -13,7 +13,7 @@ namespace Infraestructure.Extensions
 
             services.AddDbContext<InventarioContext>(
                 options => options.UseSqlServer(
-                    configuration.GetConnectionString("InventarioConnection"), b => b.MigrationsAssembly(assembly)), ServiceLifetime.Transient
+                    configuration.GetConnectionString("InventarioConnection"), b => b.MigrationsAssembly(assembly)), ServiceLifetime.Scoped
                 
             );
 

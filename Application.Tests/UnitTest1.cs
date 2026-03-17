@@ -7,6 +7,7 @@ using Domain.Entities;
 using Infraestructure.Persistences.Interfaces;
 using Microsoft.Extensions.Logging.Abstractions;
 using Moq;
+using Application.Emails.Services.Interfaces;
 
 namespace Application.Tests;
 
@@ -29,6 +30,7 @@ public class ProductServiceTests
 
         var productRepo = new Mock<IProductRepository>(MockBehavior.Strict);
         var movRepo = new Mock<IMovimientoRepository>(MockBehavior.Strict);
+        var emailService = new Mock<IEmailService>(MockBehavior.Strict);
 
         productRepo
             .Setup(r => r.SaveAsync(It.IsAny<Product>()))
@@ -38,7 +40,7 @@ public class ProductServiceTests
                 return p;
             });
 
-        var service = new ProductService(mapper, productRepo.Object, movRepo.Object, NullLogger<ProductService>.Instance);
+        var service = new ProductService(mapper, productRepo.Object, movRepo.Object, emailService.Object, NullLogger<ProductService>.Instance);
 
         var request = new ProductRequestDto
         {
@@ -58,6 +60,7 @@ public class ProductServiceTests
 
         productRepo.Verify(r => r.SaveAsync(It.IsAny<Product>()), Times.Once);
         movRepo.VerifyNoOtherCalls();
+        emailService.VerifyNoOtherCalls();
     }
 
     [Fact]
@@ -67,6 +70,7 @@ public class ProductServiceTests
 
         var productRepo = new Mock<IProductRepository>(MockBehavior.Strict);
         var movRepo = new Mock<IMovimientoRepository>(MockBehavior.Strict);
+        var emailService = new Mock<IEmailService>(MockBehavior.Strict);
 
         var existing = new Product
         {
@@ -86,7 +90,7 @@ public class ProductServiceTests
             .Setup(r => r.SaveAsync(existing))
             .ReturnsAsync(existing);
 
-        var service = new ProductService(mapper, productRepo.Object, movRepo.Object, NullLogger<ProductService>.Instance);
+        var service = new ProductService(mapper, productRepo.Object, movRepo.Object, emailService.Object, NullLogger<ProductService>.Instance);
 
         var request = new ProductRequestDto
         {
@@ -108,6 +112,7 @@ public class ProductServiceTests
         productRepo.Verify(r => r.FindByIdAsync(10), Times.Once);
         productRepo.Verify(r => r.SaveAsync(existing), Times.Once);
         movRepo.VerifyNoOtherCalls();
+        emailService.VerifyNoOtherCalls();
     }
 
     [Fact]
@@ -117,6 +122,7 @@ public class ProductServiceTests
 
         var productRepo = new Mock<IProductRepository>(MockBehavior.Strict);
         var movRepo = new Mock<IMovimientoRepository>(MockBehavior.Strict);
+        var emailService = new Mock<IEmailService>(MockBehavior.Strict);
 
         var existing = new Product
         {
@@ -132,7 +138,7 @@ public class ProductServiceTests
             .Setup(r => r.FindByIdAsync(7))
             .ReturnsAsync(existing);
 
-        var service = new ProductService(mapper, productRepo.Object, movRepo.Object, NullLogger<ProductService>.Instance);
+        var service = new ProductService(mapper, productRepo.Object, movRepo.Object, emailService.Object, NullLogger<ProductService>.Instance);
 
         var dto = await service.FindByIdAsync("7");
 
@@ -142,6 +148,7 @@ public class ProductServiceTests
 
         productRepo.Verify(r => r.FindByIdAsync(7), Times.Once);
         movRepo.VerifyNoOtherCalls();
+        emailService.VerifyNoOtherCalls();
     }
 
     [Fact]
@@ -151,6 +158,7 @@ public class ProductServiceTests
 
         var productRepo = new Mock<IProductRepository>(MockBehavior.Strict);
         var movRepo = new Mock<IMovimientoRepository>(MockBehavior.Strict);
+        var emailService = new Mock<IEmailService>(MockBehavior.Strict);
 
         var req = new PaginationRequest
         {
@@ -172,7 +180,7 @@ public class ProductServiceTests
             .Setup(r => r.BusquedaPaginado(It.IsAny<PaginationRequest>()))
             .ReturnsAsync(paged);
 
-        var service = new ProductService(mapper, productRepo.Object, movRepo.Object, NullLogger<ProductService>.Instance);
+        var service = new ProductService(mapper, productRepo.Object, movRepo.Object, emailService.Object, NullLogger<ProductService>.Instance);
 
         var result = await service.BusquedaPaginado(req);
 
@@ -182,5 +190,6 @@ public class ProductServiceTests
 
         productRepo.Verify(r => r.BusquedaPaginado(It.IsAny<PaginationRequest>()), Times.Once);
         movRepo.VerifyNoOtherCalls();
+        emailService.VerifyNoOtherCalls();
     }
 }

@@ -1,3 +1,4 @@
+using Application.Emails.Services.Interfaces;
 using Application.Dtos.Product;
 using Application.Interfaces;
 using AutoMapper;
@@ -14,11 +15,13 @@ namespace Application.Services
         private readonly IMapper _mapper;
         private readonly IProductRepository _productRepository;
         private readonly IMovimientoRepository _movimientoRepository;
+        private readonly IEmailService _emailService;
 
         public ProductService(
             IMapper mapper,
             IProductRepository productRepositorio,
             IMovimientoRepository movimientoRepository,
+            IEmailService emailService,
              ILogger<ProductService> logger
         )
         {
@@ -26,6 +29,7 @@ namespace Application.Services
             _logger = logger;
             _productRepository = productRepositorio;
             _movimientoRepository = movimientoRepository;
+            _emailService = emailService;
         }
 
         public async Task<PaginadoResponse<ProductDto>> BusquedaPaginado(PaginationRequest dto)
@@ -158,6 +162,22 @@ namespace Application.Services
                 await _movimientoRepository.SaveChangesAsync();
 
                 await tx.CommitAsync();
+
+                if (type == "disminuir" && product.Stock <= 5)
+                {
+                    try
+                    {
+                        var to = "jose.cerna.inc@gmail.com";
+                        var subject = "Alerta: stock bajo";
+                        var body = $"Tu producto tiene stock bajo. Su stock es {product.Stock}.";
+
+                        await _emailService.SendAsync(to, subject, body);
+                    }
+                    catch (Exception emailEx)
+                    {
+                        _logger.LogError(emailEx, "Error enviando correo de stock bajo para producto {ProductId}", id);
+                    }
+                }
 
                 return OperationResult<ProductDto>.Ok("Stock actualizado con éxito", _mapper.Map<ProductDto>(product));
             }
