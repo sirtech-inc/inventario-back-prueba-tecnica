@@ -1,4 +1,4 @@
-﻿using Domain;
+using Domain;
 using Domain.Entities;
 using Infraestructure.Core.Repositories;
 using Infraestructure.Persistences.Interfaces;
@@ -68,6 +68,67 @@ namespace Infraestructure.Persistences.Repository
             PaginadoResponse<Product> response = new(data, meta);
 
             return response;
+        }
+
+        public async Task<PaginadoResponse<Product>> BusquedaPaginadoStockBajo(PaginationRequest dto, int maxStock = 5)
+        {
+            var contex = _dbContext.Set<Product>()
+                     .AsSplitQuery()
+                     .AsQueryable()
+                     .Where(p => p.Stock <= maxStock);
+
+            if (!string.IsNullOrWhiteSpace(dto.Sort))
+            {
+                var ColumnsOrder = dto.Sort.Split(".");
+
+                var column = ColumnsOrder[0];
+                var order = ColumnsOrder[1];
+
+                contex = column switch
+                {
+                    "name" => order == "desc" ? contex.OrderByDescending(p => p.Name) : contex.OrderBy(p => p.Name),
+                };
+            }
+
+            if (dto.Filters != null && dto.Filters.Length > 0)
+            {
+                foreach (var filter in dto.Filters)
+                {
+                    var id_value = filter.Split(":");
+
+                    var id = id_value[0];
+                    var value = id_value[1];
+
+                    if (id == "name") contex = contex.Where(p => p.Name.Contains(value));
+                }
+            }
+
+            var take = dto.Take ?? 5;
+            var page = dto.Page ?? 1;
+            var skip = (page - 1) * take;
+
+            var data = await contex.Skip(skip).Take(take).ToListAsync();
+            var total = await contex.CountAsync();
+
+            var meta = new Meta
+            {
+                Page = dto.Page,
+                TotalCount = total,
+                TotalPages = (int)Math.Ceiling((double)total / take)
+            };
+
+            PaginadoResponse<Product> response = new(data, meta);
+
+            return response;
+        }
+
+        public async Task<IReadOnlyList<Product>> GetStockBajoAsync(int maxStock = 5)
+        {
+            return await _dbContext.Set<Product>()
+                .AsNoTracking()
+                .Where(p => p.Stock <= maxStock)
+                .OrderBy(p => p.Name)
+                .ToListAsync();
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿using Domain;
+using Domain;
 using Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -11,5 +11,7 @@ namespace Infraestructure.Persistences.Interfaces
     public interface IProductRepository : ICrudCoreRespository<Product, int>
     {
         public Task<PaginadoResponse<Product>> BusquedaPaginado(PaginationRequest dto);
+        public Task<PaginadoResponse<Product>> BusquedaPaginadoStockBajo(PaginationRequest dto, int maxStock = 5);
+        public Task<IReadOnlyList<Product>> GetStockBajoAsync(int maxStock = 5);
     }
 }

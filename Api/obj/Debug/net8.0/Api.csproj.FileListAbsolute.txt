@@ -370,4 +370,8 @@ E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\ref\Api.dll
 E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\Api.sourcelink.json
 E:\prueba tecnica - touchConsulting\RetoBack\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\prueba tecnica - touchConsulting\RetoBack\Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
-E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\prueba tecnica - touchConsulting\RetoBack\Api\bin\Debug\net8.0\PdfSharpCore.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Api\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Api\bin\Debug\net8.0\SixLabors.Fonts.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Api\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Api\bin\Debug\net8.0\de\PdfSharpCore.resources.dll
