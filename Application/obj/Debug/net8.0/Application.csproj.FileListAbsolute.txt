@@ -36,3 +36,4 @@ E:\prueba tecnica - touchConsulting\RetoBack\Application\bin\Debug\net8.0\Infrae
 E:\prueba tecnica - touchConsulting\RetoBack\Application\bin\Debug\net8.0\Utils.pdb
 E:\prueba tecnica - touchConsulting\RetoBack\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
 E:\prueba tecnica - touchConsulting\RetoBack\Application\obj\Debug\net8.0\ref\Application.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Application\obj\Debug\net8.0\Application.sourcelink.json

@@ -364,7 +364,9 @@ E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\staticwebasset
 E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\staticwebassets.build.json.cache
 E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\staticwebassets.development.json
 E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\Api.csproj.Up2Date
 E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
 E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\ref\Api.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\Api.sourcelink.json
+E:\prueba tecnica - touchConsulting\RetoBack\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Api\bin\Debug\net8.0\BCrypt.Net-Next.dll

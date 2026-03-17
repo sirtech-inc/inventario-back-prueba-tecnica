@@ -32,3 +32,4 @@ E:\prueba tecnica - touchConsulting\RetoBack\Infraestructure\bin\Debug\net8.0\Do
 E:\prueba tecnica - touchConsulting\RetoBack\Infraestructure\bin\Debug\net8.0\Utils.pdb
 E:\prueba tecnica - touchConsulting\RetoBack\Infraestructure\obj\Debug\net8.0\Infraest.B0D41582.Up2Date
 E:\prueba tecnica - touchConsulting\RetoBack\Infraestructure\obj\Debug\net8.0\ref\Infraestructure.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Infraestructure\obj\Debug\net8.0\Infraestructure.sourcelink.json

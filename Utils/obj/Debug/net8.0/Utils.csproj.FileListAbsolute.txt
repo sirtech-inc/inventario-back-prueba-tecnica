@@ -20,3 +20,4 @@ E:\prueba tecnica - touchConsulting\RetoBack\Utils\obj\Debug\net8.0\Utils.dll
 E:\prueba tecnica - touchConsulting\RetoBack\Utils\obj\Debug\net8.0\refint\Utils.dll
 E:\prueba tecnica - touchConsulting\RetoBack\Utils\obj\Debug\net8.0\Utils.pdb
 E:\prueba tecnica - touchConsulting\RetoBack\Utils\obj\Debug\net8.0\ref\Utils.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Utils\obj\Debug\net8.0\Utils.sourcelink.json

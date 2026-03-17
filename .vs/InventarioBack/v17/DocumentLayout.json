@@ -132,7 +132,7 @@
               "RelativeDocumentMoniker": "Application\\Validators\\ProductValidator.cs",
               "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Application\\Validators\\ProductValidator.cs",
               "RelativeToolTip": "Application\\Validators\\ProductValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T04:42:13.073Z",
               "EditorCaption": ""
@@ -147,8 +147,7 @@
               "RelativeToolTip": "Application\\Services\\ProductService.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAwC0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:41:45.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:41:45.919Z"
             },
             {
               "$type": "Document",
@@ -160,8 +159,7 @@
               "RelativeToolTip": "Application\\Dtos\\Product\\ProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:41:20.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:41:20.372Z"
             },
             {
               "$type": "Document",
@@ -173,8 +171,7 @@
               "RelativeToolTip": "Domain\\Meta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:17:47.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:17:47.665Z"
             },
             {
               "$type": "Document",
@@ -186,8 +183,7 @@
               "RelativeToolTip": "Infraestructure\\Persistences\\Repository\\CrudCoreRespository.cs",
               "ViewState": "AgIAAMkAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:28:30.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:28:30.276Z"
             },
             {
               "$type": "Document",
@@ -199,8 +195,7 @@
               "RelativeToolTip": "Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-13T23:58:57.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T23:58:57.492Z"
             },
             {
               "$type": "Document",
@@ -212,8 +207,7 @@
               "RelativeToolTip": "Api\\Controllers\\ProductController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAswDYAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T02:26:23.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T02:26:23.963Z"
             },
             {
               "$type": "Document",
@@ -225,8 +219,7 @@
               "RelativeToolTip": "Application\\Mappers\\ProductMappingsProfile.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T01:19:15.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T01:19:15.367Z"
             },
             {
               "$type": "Document",
@@ -238,8 +231,7 @@
               "RelativeToolTip": "Domain\\PaginadoResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:37:50.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:37:50.037Z"
             },
             {
               "$type": "Document",
@@ -251,8 +243,7 @@
               "RelativeToolTip": "Infraestructure\\Persistences\\Repository\\ProductRepository.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T00:54:47.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T00:54:47.112Z"
             },
             {
               "$type": "Document",
@@ -264,8 +255,7 @@
               "RelativeToolTip": "Infraestructure\\Persistences\\Interfaces\\ICrudCoreRespository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:28:20.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:28:20.918Z"
             },
             {
               "$type": "Document",
@@ -277,8 +267,7 @@
               "RelativeToolTip": "Infraestructure\\Persistences\\Interfaces\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:28:26.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:28:26.391Z"
             },
             {
               "$type": "Document",
@@ -290,8 +279,7 @@
               "RelativeToolTip": "Infraestructure\\Persistences\\Contexts\\InventarioContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:21:23.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:21:23.372Z"
             },
             {
               "$type": "Document",
@@ -303,8 +291,7 @@
               "RelativeToolTip": "Infraestructure\\Extensions\\InjectionExntensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T23:50:53.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T23:50:53.298Z"
             },
             {
               "$type": "Document",
@@ -316,8 +303,7 @@
               "RelativeToolTip": "Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T22:39:38.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T22:39:38.471Z"
             },
             {
               "$type": "Document",
@@ -329,8 +315,7 @@
               "RelativeToolTip": "Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-14T00:05:05.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T00:05:05.396Z"
             },
             {
               "$type": "Document",
@@ -342,8 +327,7 @@
               "RelativeToolTip": "Infraestructure\\Persistences\\Contexts\\Configurations\\RolConfiguration.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:25:06.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:25:06.427Z"
             },
             {
               "$type": "Document",
@@ -355,8 +339,7 @@
               "RelativeToolTip": "Infraestructure\\Persistences\\Contexts\\Configurations\\MovimientoConfiguration.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:26:16.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:26:16.653Z"
             },
             {
               "$type": "Document",
@@ -368,8 +351,7 @@
               "RelativeToolTip": "Infraestructure\\Persistences\\Contexts\\Configurations\\ProductConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:23:29.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:23:29.494Z"
             },
             {
               "$type": "Document",
@@ -381,8 +363,7 @@
               "RelativeToolTip": "Infraestructure\\Persistences\\Contexts\\Configurations\\UserConfiguration.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:23:26.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:23:26.607Z"
             },
             {
               "$type": "Document",
@@ -394,8 +375,7 @@
               "RelativeToolTip": "Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:20:51.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:20:51.511Z"
             },
             {
               "$type": "Document",
@@ -407,8 +387,7 @@
               "RelativeToolTip": "Domain\\Entities\\Rol.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA9wBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:20:43.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:20:43.69Z"
             },
             {
               "$type": "Document",
@@ -420,21 +399,19 @@
               "RelativeToolTip": "Domain\\Entities\\Movimiento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T04:19:49.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:19:49.765Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Api",
+              "Title": "Api.csproj",
               "DocumentMoniker": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Api\\Api.csproj",
               "RelativeDocumentMoniker": "Api\\Api.csproj",
               "ToolTip": "E:\\prueba tecnica - touchConsulting\\RetoBack\\Api\\Api.csproj",
               "RelativeToolTip": "Api\\Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-17T04:12:12.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T04:12:12.139Z"
             },
             {
               "$type": "Document",
@@ -470,8 +447,7 @@
               "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-13T22:50:39.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T22:50:39.668Z"
             }
           ]
         }

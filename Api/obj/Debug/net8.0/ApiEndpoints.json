@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "Api.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Application.Dtos.Auth.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Api.Controllers.ProductController",
     "Method": "BusquedaPaginado",
     "RelativePath": "api/Product",
@@ -78,6 +94,22 @@
       {
         "Name": "request",
         "Type": "Application.Dtos.Product.ProductRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.UserController",
+    "Method": "Post",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Application.Dtos.User.UserRequestDto",
         "IsRequired": true
       }
     ],

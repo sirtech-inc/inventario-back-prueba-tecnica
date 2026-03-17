@@ -1,4 +1,4 @@
-﻿using Application.Interfaces;
+using Application.Interfaces;
 using Application.Services;
 using FluentValidation.AspNetCore;
 using Infraestructure.Persistences.Interfaces;
@@ -21,6 +21,9 @@ namespace Application.Extensions
 
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped<IProductService, ProductService>();
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IAuthService, AuthService>();
 
             return services;
         }

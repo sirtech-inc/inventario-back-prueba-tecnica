@@ -26,3 +26,4 @@ E:\prueba tecnica - touchConsulting\RetoBack\Domain\obj\Debug\net8.0\refint\Doma
 E:\prueba tecnica - touchConsulting\RetoBack\Domain\obj\Debug\net8.0\Domain.pdb
 E:\prueba tecnica - touchConsulting\RetoBack\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
 E:\prueba tecnica - touchConsulting\RetoBack\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Domain\obj\Debug\net8.0\Domain.sourcelink.json

@@ -1,10 +1,41 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "Api",
-    "version": "1.0"
+    "title": "Inventario API",
+    "version": "v1"
   },
   "paths": {
+    "/api/Auth/login": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Product": {
       "get": {
         "tags": [
@@ -141,10 +172,55 @@
           }
         }
       }
+    },
+    "/api/User": {
+      "post": {
+        "tags": [
+          "User"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
     "schemas": {
+      "LoginRequestDto": {
+        "type": "object",
+        "properties": {
+          "username": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "ProductRequestDto": {
         "type": "object",
         "properties": {
@@ -166,7 +242,42 @@
           }
         },
         "additionalProperties": false
+      },
+      "UserRequestDto": {
+        "type": "object",
+        "properties": {
+          "fullname": {
+            "type": "string",
+            "nullable": true
+          },
+          "username": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "rolId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "JWT Authorization header usando el esquema Bearer. Ejemplo: \"Bearer {token}\"",
+        "name": "Authorization",
+        "in": "header"
       }
     }
-  }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }
