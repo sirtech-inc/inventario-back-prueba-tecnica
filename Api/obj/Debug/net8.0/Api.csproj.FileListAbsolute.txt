@@ -370,3 +370,4 @@ E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\ref\Api.dll
 E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\Api.sourcelink.json
 E:\prueba tecnica - touchConsulting\RetoBack\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\prueba tecnica - touchConsulting\RetoBack\Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\prueba tecnica - touchConsulting\RetoBack\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

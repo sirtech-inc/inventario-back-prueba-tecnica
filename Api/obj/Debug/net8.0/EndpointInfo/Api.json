@@ -239,6 +239,10 @@
           "stock": {
             "type": "integer",
             "format": "int32"
+          },
+          "categorie": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

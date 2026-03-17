@@ -29,7 +29,8 @@ namespace Application.Services
 
             User user = _mapper.Map<User>(saveDto);
             user.Password = BCrypt.Net.BCrypt.HashPassword(saveDto.Password);
-
+            user.Status = true;
+            
             await _userRepository.SaveAsync(user);
 
             return new OperationResult<UserDto>()
